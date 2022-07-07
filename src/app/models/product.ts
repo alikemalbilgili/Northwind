@@ -1,5 +1,5 @@
 export interface Product{
-    productId:Number;
+    productId:number;
     categoryId:number;
     productName:string;
     unitsInStock:number;
